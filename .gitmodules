@@ -1,0 +1,3 @@
+[submodule "greece"]
+	path = greece
+	url = git@github.com:rjurney/italy-sicily-greece-trip.git
