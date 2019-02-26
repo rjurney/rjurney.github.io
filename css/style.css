@@ -20,6 +20,7 @@ header .home-form-all .form-in .form-control { background-color: #fff;background
 .data-holder p  { color:#999999; font-size:17px; line-height:29px; font-family: "Roboto";  }
 .training-row h3 { color:#192853; font-size:36px; font-family: "Roboto"; font-weight:300; margin-top:0;  }
 .training-row p  { color:#999999; font-size:17px; line-height:29px; font-family: "Roboto";  }
+.training-row b { color:#192853; font-size:24px; font-family: "Roboto"; font-weight:300; margin-top:0;  }
 .training-row { padding:25px 0; }
 .data-content {  border-right: 1px solid #cfcfcf;  padding-right: 25px;}
 .data-content.last { border:none;padding-right:0px; }
